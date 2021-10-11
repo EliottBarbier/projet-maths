@@ -1,6 +1,7 @@
 # projet-maths
 
-On got clone puis on fait des commit
+On git clone au début puis on fait des commit et des git push / git pull pour récupérer et envoyer
+
 
 Jules Parfouru
 Eliott Barbier
